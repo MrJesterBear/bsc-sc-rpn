@@ -7,4 +7,5 @@
         T Peek();
         bool IsEmpty();
     }
+
 }

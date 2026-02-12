@@ -11,6 +11,24 @@
             stack = stackImplementation;
         }
 
+        public class ArrayStack<T> : IStack
+        {
+            public T pop()
+            {
+                return
+            }
+
+            public T Peek()
+            {
+                return
+            }
+
+            public bool isEmpty()
+            {
+                return 
+            }
+        }
+
         public double Evaluate(string expression)
         {
 
